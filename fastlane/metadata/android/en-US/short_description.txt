@@ -1,0 +1,1 @@
+PF Circuit Trainer supports the user during his/her circuit training session.
